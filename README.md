@@ -1,5 +1,5 @@
 
-# Yemek Sepeti Benzeri Web Uygulaması
+# Thunk Sepeti Web Uygulaması
 
 Bu proje, **Vite** kullanılarak geliştirilmiş çok sayfalı bir yemek siparişi web uygulamasıdır. Projede **json-server** kullanılarak bir veri tabanı oluşturulmuş ve **Axios**, **Redux**, **Redux Thunk** kullanılarak API istekleri yönetilmiştir. **React Router DOM** ile sayfa navigasyonu sağlanmış ve tasarım ile stillendirme **Tailwind CSS** ve **React Icons** kullanılarak yapılmıştır.
 
